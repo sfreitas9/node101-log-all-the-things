@@ -10,10 +10,11 @@ npm install
 ## To run:
 ```
 npm start
-```
+``` 
 Then go to http://localhost:3000/ in your browser.
 You can also go to http://localhost:3000/logs to see the logs in JSON format.
 If you go to http://localhost:3000/anythingelse you will get a 404 error.
+
 ---
 ## To test, in separate terminals, run:
 ```
